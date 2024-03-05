@@ -1,0 +1,22 @@
+{
+  "name": "bloqueante.js",
+  "version": "1.0.0",
+  "description": "Prueba del Modo Bloqueante en Nodejs",
+  "main": "bloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisFernandoH/bloqueante.git"
+  },
+  "keywords": [
+    "bloqueante"
+  ],
+  "author": "Luis Fernando Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisFernandoH/bloqueante/issues"
+  },
+  "homepage": "https://github.com/LuisFernandoH/bloqueante#readme"
+}
